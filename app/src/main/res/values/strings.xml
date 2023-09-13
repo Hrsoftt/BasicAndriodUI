@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBasicCodeLab</string>
+    <string name="see_less">See less</string>
+    <string name="see_more">See more</string>
+    <string name="n_continue">Continue</string>
+    <string name="hello">Hello</string>
+</resources>
